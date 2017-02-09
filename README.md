@@ -1,4 +1,4 @@
 ## Raytracing in Swift tutorial
 
-- [Raycasting](ray-casting)
-- [Sphere Intersections](sphere-intersections)
+- [Raycasting](ray-casting.md)
+- [Sphere Intersections](sphere-intersections.md)
